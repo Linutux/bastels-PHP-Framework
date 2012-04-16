@@ -1,0 +1,1 @@
+INSERT INTO TABELLENNAME blub values blub oder so;

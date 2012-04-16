@@ -1,0 +1,1 @@
+das isn dump, wovon genau weis ich noch nicht. von allen tabellen falls es mehrere gibt? nur von einer? pro dump alle zugehörigne tabellen dumpen aber in mehrere datein?

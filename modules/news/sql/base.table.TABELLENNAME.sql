@@ -1,0 +1,1 @@
+ALTER ADD TABLE test;

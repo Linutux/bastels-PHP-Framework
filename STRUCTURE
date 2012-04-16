@@ -1,0 +1,10 @@
+. OMG WTF BASE
+-ext_res					stuff from other coders
+-int_res					the unbelievable framework
+-modules					here is every modul
+|-modulname				a dir for every modul	
+	|-documentation wtf is this?!
+	|-php						the php files for the framework
+	|-sql						dumps and original sql files
+-sites						the sites for the framework
+-templates				general templates
