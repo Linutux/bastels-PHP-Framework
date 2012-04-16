@@ -1,0 +1,21 @@
+This is my little framework, written in php
+
+Todo:
+# add errorhandler for userfails
+# modify errorHandler
+# add user classes
+# modify admincp
+# write validator class(see ext_res/cerb...)
+# so much mods to do
+# multilanguage support
+# update mechanism
+# mod support
+# menu support
+
+fails
+- admin.php displays the header bevor the content(bug in templateengine?)
+
+goods
++ pretty nice userloginbackend
++ secure registerbackend
++ flexible templateengine
