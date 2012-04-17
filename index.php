@@ -5,6 +5,8 @@
 ini_set( 'session.use_only_cookies', '1' );
 ini_set( 'session.use_trans_sid', '0' );
 
+define('IN_FRAMEWORK', true);
+
 // Session starten
 session_start();
 

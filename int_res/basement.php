@@ -1,10 +1,6 @@
 <?php
 // bashing everybody that trys to call this file directly 
-$pathArray = explode("/", __FILE__);
-if(!defined(strstr($pathArray[count($pathArray)-1], ".", true))){
-	print_r($pathArray);
-	echo "<br>wtf, wo ist das errorhandling?!<br>";
-	// errorhandling can be placed here
+if (!defined('IN_FRAMEWORK')){
 	exit;
 }
 // require "ext_res/cerberus-filterclass/input-filter.php";
